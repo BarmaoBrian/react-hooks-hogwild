@@ -1,3 +1,9 @@
+#PHASE 2 - WK 1 : Code Challenge
+
+#Date: 2/11/2024
+
+#Author: Barmao Brian Kipchumba
+
 # HogWild: The React app for fans of prize-winning pigs
 
 ## React Week 1 Project
